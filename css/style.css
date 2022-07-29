@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.conten-comment{
+    max-width: 1200px;
+    height: 1200px;
+    background-color: black;
+    margin: auto auto;
+    display: flex;
+    flex-direction: column;
+}
+.conten-comment .comment #comment-item{
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(175, 175, 175);
+   
+}
+.conten-comment .comment #button{
+ 
+}
